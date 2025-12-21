@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Troy, I enjoy learning systems end to end and approach such with a curios mindset, my main interests are:
+
+Software
+Web
+Security
+FullStack
 <!--
 **Troy-Bolt/Troy-Bolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
