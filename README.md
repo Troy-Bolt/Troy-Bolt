@@ -15,7 +15,7 @@ Javascript
 HTML
 CSS
 
-##Tech Stack
+## Tech Stack
 
 React.js
 Next.js
