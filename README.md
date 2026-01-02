@@ -1,97 +1,50 @@
-## Hi there 👋
+## 👋 Hi, I’m Troy
 
-I’m a developer currently focusing on C# and learning how to write clean, maintainable code using common software design patterns.
+I’m a developer focused on **C#** and learning how to design **clean, maintainable software** using proven design patterns.
 
-I enjoy breaking down problems, understanding why patterns exist, and applying them in small, practical projects rather than just memorising theory.
+I focus on applying design patterns through small, practical projects to build a strong understanding of clean software design.
 
-## 🧠 Current Focus
+---
 
-C# fundamentals and best practices
+### 🧠 Current Focus
+- Writing clear, maintainable C# code
+- Applying core design principles:
+  - SOLID
+  - Factory / Abstract Factory
+  - Strategy
+  - Observer
+  - Dependency Injection
+- Learning how architecture choices affect long-term scalability
 
-Learning and applying design patterns, including:
+---
 
-SOLID principles
+### 🛠️ Skills & Tools
+**Languages**
+- C# (primary)
+- Python (foundations)
+- HTML / CSS (basic)
 
-Factory & Abstract Factory
+**Concepts**
+- Object-Oriented Programming
+- Design patterns
+- Clean code principles
 
-Strategy
+**Tools**
+- .NET
+- Git & GitHub
+- Visual Studio / VS Code
 
-Observer
+---
 
-Dependency Injection
+### 📂 Projects
+My repositories focus on **learning through implementation**:
+- Small, focused C# projects exploring one pattern at a time
+- Experiments designed to build intuition, not just finished apps
+- Emphasis on readability, extensibility, and reasoning about code
 
-Writing code that is:
+---
 
-Easy to read
-
-Easy to extend
-
-Easy to reason about
-
-I’m especially interested in how patterns improve long-term code quality and scalability.
-
-## 🛠️ Skills & Tools
-
-Languages
-
-C# (main focus)
-
-Python (foundations & logic)
-
-HTML / CSS (basic web knowledge)
-
-Concepts
-
-Object-Oriented Programming (OOP)
-
-Design patterns
-
-Clean code principles
-
-Tools
-
-.NET / Visual Studio
-
-Git & GitHub
-
-VS Code
-
-## 📂 Projects
-
-My repositories mainly consist of:
-
-Small C# projects designed to practice specific patterns
-
-Experiments where each project focuses on one idea at a time
-
-Learning-oriented code rather than polished production apps
-
-The goal is understanding and improvement, not just finished output.
-
-## 🎯 Goals
-
-Become confident designing C# applications from scratch
-
-Develop strong instincts for when and why to use certain patterns
-
-Build a solid foundation before moving into larger, more complex systems
-
-## 📫 Contact
-
-GitHub: You’re already here 🙂
-
-
-<!--
-**Troy-Bolt/Troy-Bolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Confidently design C# applications from scratch
+- Develop strong instincts for when and why to use patterns
+- Build a solid foundation before moving into larger systems
